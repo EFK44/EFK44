@@ -71,7 +71,7 @@ Front-End and Shopify Developer with **5+ years** of experience designing, devel
 
 ### Education
 
-**B.Sc., Management Information Systems**, Işık University, Istanbul (2014 to 2022)
+**B.Sc., Management Information Systems**, Işık University, Istanbul (2014 to 2021)
 
 ### Open to
 
