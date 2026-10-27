@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/efk44"><img src="https://img.shields.io/badge/LinkedIn-efk44-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:eyup.f.kayaduman@gmail.com"><img src="https://img.shields.io/badge/Email-eyup.f.kayaduman%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://henchmandigital.com"><img src="https://img.shields.io/badge/Henchman_Digital-henchmandigital.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Henchman Digital" /></a>
 </p>
 
 <p align="center">
