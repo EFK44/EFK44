@@ -33,13 +33,14 @@ Front-End and Shopify Developer with **5+ years** of experience designing, devel
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,mysql,python,wordpress&perline=12" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,php,laravel,mysql,graphql,python,wordpress,git&perline=15" alt="Tech stack" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/Liquid-1A8B5D?style=flat-square&logo=shopify&logoColor=white" alt="Shopify Liquid" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
   <img src="https://img.shields.io/badge/Shopify_App_Development-5E8E3E?style=flat-square&logo=shopify&logoColor=white" alt="Shopify App Development" />
   <img src="https://img.shields.io/badge/REST_API-0096D6?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/iyzico-1E64FF?style=flat-square" alt="iyzico" />
