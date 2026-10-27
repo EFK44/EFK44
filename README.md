@@ -31,9 +31,7 @@ Front-End and Shopify Developer with **5+ years** of experience designing, devel
 ### Tech stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,php,laravel,mysql,graphql,python,wordpress,git&perline=15" alt="Tech stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,php,laravel,mysql,graphql,python,wordpress,git&perline=15" alt="Tech stack" />
 </p>
 
 <p align="center">
